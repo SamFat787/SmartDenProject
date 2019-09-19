@@ -1,4 +1,4 @@
 <html>
-  <body>Testing, duh
+  <body>Testing
   </body>
   </html>
