@@ -7,5 +7,9 @@
     <h2>Week 3 September 23</h2>
     <p>Prepared budget for our project after selecting the sensors and effectors each group member will acquire</p>
  Testing
+    <h2>Week 5 October 1st</h2>
+    <p>Purchased RGB LED YSL-R596CR3G4B5C-C10 from Microcontrollershop.com. Store is based in US and part should arrive in the next 5 business days</p>
+    
+    
   </body>
   </html>
