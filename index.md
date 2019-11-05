@@ -8,7 +8,9 @@
     <h2> Week 6 October 8th</h2>
     <p>Ordered Blue Pill with STm32 from Amazon to help prgram the LED. Should arrive by the 8th</p>
     <h2>Week 5 October 1st</h2>
-    <p>Purchased RGB LED YSL-R596CR3G4B5C-C10 from Microcontrollershop.com. Store is based in US and part should arrive in the next 5 business days</p>
+    <p>Purchased RGB LED YSL-R596CR3G4B5C-C10 from Microcontrollershop.com. Store is based in US and part should arrive in the next 5 business days
+    <img src=https://raw.githubusercontent.com/SamFat787/SmartDenProject/master/image0.jpeg>
+    </p>
     <h2>Week 3 September 23</h2>
     <p>Prepared budget for our project after selecting the sensors and effectors each group member will acquire</p>
  Testing
