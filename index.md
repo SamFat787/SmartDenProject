@@ -6,7 +6,9 @@
    <h2>Week 7 October 15th</h2>
     <p>Blue Pill should arrive by the 18th, RGB LED yet to arrive. Both should arrive during the Reading Week</p>
     <h2> Week 6 October 8th</h2>
-    <p>Ordered Blue Pill with STm32 from Amazon to help prgram the LED. Should arrive by the 8th</p>
+    <p>Ordered Blue Pill with STm32 from Amazon to help program the LED. Should arrive by the 18th
+    <img src=https://github.com/SamFat787/SmartDenProject/blob/master/image1.png?raw=true>
+    </p>
     <h2>Week 5 October 1st</h2>
     <p>Purchased RGB LED YSL-R596CR3G4B5C-C10 from Microcontrollershop.com. Store is based in US and part should arrive in the next 5 business days
     <img src=https://raw.githubusercontent.com/SamFat787/SmartDenProject/master/image0.jpeg>
