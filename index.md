@@ -2,7 +2,7 @@
   <body>
     <h2>Week 8 October 29th</h2>
     <p>All parts arrived over the reading week. RGB LED included a customs duty of $25 that I did not originally budget for a few weeks ago.  Made a PCB of the LED/Blue Pill connection</p>
-    <p> <img src=https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-04%20at%2011.56.26%20PM.png?raw=true > </p>
+    <p> <img src=https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-05%20at%203.26.22%20PM.png> </p>
    <h2>Week 7 October 15th</h2>
     <p>Blue Pill should arrive by the 18th, RGB LED yet to arrive. Both should arrive during the Reading Week</p>
     <h2> Week 6 October 8th</h2>
