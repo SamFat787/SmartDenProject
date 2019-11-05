@@ -2,10 +2,10 @@
   <body>
     <h2>Week 8 October 29th</h2>
     <p>All parts arrived over the reading week. RGB LED included a customs duty of $25 that I did not originally budget for a few weeks ago.  Made a PCB of the LED/Blue Pill connection
-    Connection: Green to B7
-                Blue to B8
-                Common Cathode to Ground
-                red to B9
+    Connection: Green to B7<br/>
+                Blue to B8<br/>
+                Common Cathode to Ground<br/>
+                red to B9<br/>
     </p>
     <p> <img src=https://raw.githubusercontent.com/SamFat787/SmartDenProject/master/Screen%20Shot%202019-11-05%20at%203.26.22%20PM.png> </p>
    <h2>Week 7 October 15th</h2>
