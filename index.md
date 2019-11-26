@@ -2,6 +2,8 @@
   <body>
     <h2>Presentation November 26 2019</h2>
     <p><a href = "https://github.com/SamFat787/SmartDenProject/blob/master/CENG317presentation.pptx">Presentation </a>
+    <h2>PCB Power up</h2>
+    <p><video width="320" height="240" src="https://github.com/SamFat787/SmartDenProject/blob/master/IMG_2016.MOV"></video>
     <h2>Week 8 October 29th</h2>
     <p>All parts arrived over the reading week. RGB LED included a customs duty of $25 that I did not originally budget for a few weeks ago.  Made a PCB of the LED/Blue Pill connection
     Connection:<br/> Green to A3<br/>
@@ -9,7 +11,7 @@
                 Common Cathode to Ground<br/>
                 red to A1<br/>
     </p>
-    <p> <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png"> </p>
+    <p> <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-1126%20at%201.56.32%20PM.png"> </p>
    <h2>Week 7 October 15th</h2>
     <p>Both the LED and the STM32 have not arrived yet, the LED i'm assuming is being held at customs and I'm not sure what is holding up the blue pill. I'm hoping both devices arrive during the reading week so i can begin to build my circuit board for the assignment.  The delay in my materials is also delaying the PCB design of my board.  If the materials arrive duringthe break I should get started on the design right away.</p>
     <h2> Week 6 October 8th</h2>
