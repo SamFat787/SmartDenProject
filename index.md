@@ -4,7 +4,7 @@
     <p><a href = "https://github.com/SamFat787/SmartDenProject/blob/master/CENG317presentation.pptx">Presentation </a>
     <h2>Week 8 October 29th</h2>
     <p>All parts arrived over the reading week. RGB LED included a customs duty of $25 that I did not originally budget for a few weeks ago.  Made a PCB of the LED/Blue Pill connection
-    Connection: Green to A3<br/>
+    Connection:<br/> Green to A3<br/>
                 Blue to A2<br/>
                 Common Cathode to Ground<br/>
                 red to A1<br/>
