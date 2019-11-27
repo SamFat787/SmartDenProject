@@ -11,11 +11,11 @@
                 Common Cathode to Ground<br/>
                 red to in series with a 220ohm resister to A1<br/>
     </p>
-    <p> <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png>raw=true"> </p><br/>
+    <p> <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png>"> </p><br/>
     <br/>
     <br/>
     <p>Here is an image of the breadboard, unfortunately the LED may not fit into the connections of a printed PCB so i have placed a 4-pin header in its place.</p>
-    <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png?raw=true"></p><br/>
+    <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png"></p><br/>
    <h2>Week 7 October 15th</h2>
     <p>Both the LED and the STM32 have not arrived yet, the LED i'm assuming is being held at customs and I'm not sure what is holding up the blue pill. I'm hoping both devices arrive during the reading week so i can begin to build my circuit board for the assignment.  The delay in my materials is also delaying the PCB design of my board.  If the materials arrive duringthe break I should get started on the design right away.</p>
     <h2> Week 6 October 8th</h2>
