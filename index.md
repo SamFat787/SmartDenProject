@@ -5,7 +5,7 @@
     <h2>PCB Power up</h2>
     <p> Used the Arduino IDE to program the blue pill.  The 3 pins are initialized outside of the main.The mainloop sets the pins outputs, and the main loop will run the function setcolor() which will cycle through the 3 main colors and a combination of other colors. The difficulty in this programming was realizing that i needed to use analog pins and analogWrite() as opposed to to digital pins and a digital function.
    <p/><br/><p>
-     <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png"><p><br/>
+     <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png?raw=true"><p><br/>
     <p><video width="320" height="240" src="https://github.com/SamFat787/SmartDenProject/blob/master/IMG_2016.MOV">Video</video>
     <h2>Week 8 October 29th</h2>
     <p>All parts arrived over the reading week. RGB LED included a customs duty of $25 that I did not originally budget for a few weeks ago. Made a PCB of the LED/Blue Pill connection
@@ -14,11 +14,11 @@
                 Common Cathode to Ground<br/>
                 red to in series with a 220ohm resister to A1<br/>
     </p><p>
-    <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png"> </p><br/>
+    <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png?raw=true"> </p><br/>
     <br/>
     <br/>
     <p>Here is an image of the breadboard, unfortunately the LED may not fit into the connections of a printed PCB so i have placed a 4-pin header in its place.</p>
-    <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png"></p><br/>
+    <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png?raw=true"></p><br/>
    <h2>Week 7 October 15th</h2>
     <p>Both the LED and the STM32 have not arrived yet, the LED i'm assuming is being held at customs and I'm not sure what is holding up the blue pill. I'm hoping both devices arrive during the reading week so i can begin to build my circuit board for the assignment.  The delay in my materials is also delaying the PCB design of my board.  If the materials arrive duringthe break I should get started on the design right away.</p>
     <h2> Week 6 October 8th</h2>
