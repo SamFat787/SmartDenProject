@@ -10,8 +10,8 @@
                 Blue to in series with a 220ohm resister to A2<br/>
                 Common Cathode to Ground<br/>
                 red to in series with a 220ohm resister to A1<br/>
-    </p>
-    <p> <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png>"> </p><br/>
+    </p><p>
+    <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png>"> </p><br/>
     <br/>
     <br/>
     <p>Here is an image of the breadboard, unfortunately the LED may not fit into the connections of a printed PCB so i have placed a 4-pin header in its place.</p>
