@@ -3,6 +3,9 @@
     <h2>Presentation November 26 2019</h2>
     <p><a href = "https://github.com/SamFat787/SmartDenProject/blob/master/CENG317presentation.pptx">Presentation </a>
     <h2>PCB Power up</h2>
+    <p> Used the Arduino IDE to program the blue pill.  The 3 ports are initialized outside of the main.
+   <p/><br/><p>
+     <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png"><p><br/>
     <p><video width="320" height="240" src="https://github.com/SamFat787/SmartDenProject/blob/master/IMG_2016.MOV"></video>
     <h2>Week 8 October 29th</h2>
     <p>All parts arrived over the reading week. RGB LED included a customs duty of $25 that I did not originally budget for a few weeks ago. Made a PCB of the LED/Blue Pill connection
