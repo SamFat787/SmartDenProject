@@ -28,6 +28,11 @@
     <br/>
     
  <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png?raw=true"></p><br/>
+ <h2>Reading Week</h2>
+ <p>Both the blue pill and the RGB LED have arrived. The RGB LED required an extra $25 duty charge that I did not budget for. This purchase take my budget from the original $50 to a total of $68. Attached is an image of the LED in my palm.</p>
+ <br/>
+ <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/thumbnail_IMG_1993.jpg?raw=true"></p>
+ 
     
    <h2>Week 7 October 15th</h2>
     <p>Both the LED and the STM32 have not arrived yet, the LED i'm assuming is being held at customs and I'm not sure what is holding up the blue pill. I'm hoping both devices arrive during the reading week so i can begin to build my circuit board for the assignment.  The delay in my materials is also delaying the PCB design of my board.  If the materials arrive duringthe break I should get started on the design right away.</p>
