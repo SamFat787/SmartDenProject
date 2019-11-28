@@ -2,7 +2,12 @@
   <body>
     <h2>Presentation November 26 2019</h2>
     <p><a href = "https://github.com/SamFat787/SmartDenProject/blob/master/CENG317presentation.pptx">Presentation </a>
-    <h2>December 14th</h2>
+      <br/>
+      <br/>
+    <h2>November 19th</h2>
+    <p>After a few weeks of mishaps with previous PCBs (set to digital pins, short in the circuit), I finally got to power up a PCB that runs the code as intended<p>
+    <p> <img src="https://github.com/SamFat787/SmartDenProject/blob/master/thumbnail_IMG_2083.jpg?raw=true"></p>
+    <h2>November 14th</h2>
     <p> Used the Arduino IDE to program the blue pill.  The 3 pins are initialized outside of the main.The mainloop sets the pins outputs, and the main loop will run the function setcolor() which will cycle through the 3 main colors and a combination of other colors. The difficulty in this programming was realizing that i needed to use analog pins and analogWrite() as opposed to to digital pins and a digital function. The image below captures the LED as it is emitting a pink reddish color.
    <p/><br/><p>
      <img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png?raw=true"><p><br/>
@@ -23,6 +28,11 @@
     <br/>
     
  <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png?raw=true"></p><br/>
+ <h2>Reading Week</h2>
+ <p>Both the blue pill and the RGB LED have arrived. The RGB LED required an extra $25 duty charge that I did not budget for. This purchase take my budget from the original $50 to a total of $68. Attached is an image of the LED in my palm.</p>
+ <br/>
+ <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/thumbnail_IMG_1993.jpg?raw=true"></p>
+ 
     
    <h2>Week 7 October 15th</h2>
     <p>Both the LED and the STM32 have not arrived yet, the LED i'm assuming is being held at customs and I'm not sure what is holding up the blue pill. I'm hoping both devices arrive during the reading week so i can begin to build my circuit board for the assignment.  The delay in my materials is also delaying the PCB design of my board.  If the materials arrive duringthe break I should get started on the design right away.</p>
