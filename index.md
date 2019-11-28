@@ -51,7 +51,8 @@
     <p>Spoke with team members Boswell and Bobby, and decided on how we will split up the duties. Also prepared a Gantt chart of the production process in order to avoid a watershed process.</p>
    
   <h2>Week1 September 10</h2>
-    <p>Selected project thats sponspred by Makerkids.  Our goal is to make a mini smarthome using sensors that the kids of the Makerkids program are familiar with.</p>
+    <p>Selected project thats sponspred by Makerkids.  Our goal is to make a mini smarthome using sensors that the kids of the Makerkids program are familiar with. Uploaded is an image of my proposed schedule for the project</p>
+    <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-28%20at%203.19.54%20AM.png?raw=true"><p/>
     
     
   </body>
