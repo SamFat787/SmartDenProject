@@ -7,6 +7,10 @@
     <h2>November 19th</h2>
     <p>After a few weeks of mishaps with previous PCBs (set to digital pins, short in the circuit), I finally got to power up a PCB that runs the code as intended. I havent any purchases since the acquisition of my devices, my budget total is still $68.<p>
     <p> <img src="https://github.com/SamFat787/SmartDenProject/blob/master/thumbnail_IMG_2083.jpg?raw=true"></p>
+    <br/>
+    <br/>
+    Image of the soldered PCB, this delayed the proposed schedule of my project a bit as the first coupld PCB i had made either had a short or were powering the wrong pins.  Here I ran into an issue with one of the ground pins, so I soldered both of them to give my device a ground.
+    <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/IMG_2087.jpg?raw=true"></p>
     <h2>November 14th</h2>
     <p> Used the Arduino IDE to program the blue pill.  The 3 pins are initialized outside of the main.The mainloop sets the pins outputs, and the main loop will run the function setcolor() which will cycle through the 3 main colors and a combination of other colors. The difficulty in this programming was realizing that i needed to use analog pins and analogWrite() as opposed to to digital pins and a digital function. The image below captures the LED as it is emitting a pink reddish color.
    <p/><br/><p>
