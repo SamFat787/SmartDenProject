@@ -1,7 +1,7 @@
 # SmartDenProject
 ##Samuel Fatuga
 
-#https://github.com/SamFat787/SmartDenProject
+https://github.com/SamFat787/SmartDenProject
 
 ##Materials Needed
 1. BreadBoard
