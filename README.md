@@ -1,6 +1,8 @@
 # SmartDenProject
 ##Samuel Fatuga
 
+[Git repository] (https://github.com/SamFat787/SmartDenProject)
+
 ##Materials Needed
 1. BreadBoard
 2. YSL-R596CR3G4B5C-C10
