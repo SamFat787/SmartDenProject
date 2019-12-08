@@ -23,6 +23,8 @@ Total cost of the project came around $65CAD. This included a purchase of the LE
 
 ## Assembly
 
-Here's an image of the breadboard design of the circuit connection. As you may notice the Fritzing image does not include the LED, that is because my printed PCB would not fit the legs of my LED. In place of the LED I put a four pin header, which the LED would accomodate the LED. From left to right on the header the connection is as follows: Red leg to pin A1, common cathode to ground, Blue leg to A2, and green leg to A3.
+Here's an image of the breadboard design of the circuit connection. As you may notice the Fritzing image does not include the LED, that is because my printed PCB would not fit the legs of my LED. In place of the LED I put a four pin header, which the LED would accomodate the LED. From left to right on the header the connection is as follows: Red leg to pin A1, common cathode to ground, Blue leg to A2, and green leg to A3. Included is the image of the PCB which shows this connection.
 
 ![breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png?raw=true)
+
+![PCB](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png?raw=true)
