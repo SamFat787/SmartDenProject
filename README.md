@@ -27,8 +27,14 @@ Here's an image of the breadboard design of the circuit connection. As you may n
 
 ![breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png?raw=true)
 
-# PCB/Soldering
+## PCB/Soldering
 Here is an image of the PCB that shows the connection of the LED legs to the pins of the BluePill. Each leg of the LED require resistors (100ohm to 1kohm) connected in series. A printed soldered PCB is attached below.
 ![PCB](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png?raw=true)
 
 ![printed PCB](https://github.com/SamFat787/SmartDenProject/blob/master/IMG_2087.jpg?raw=true)
+
+## Unit Testing
+One of the good things about the Blue Pill is that it can be programmed with Arduino IDE, which uses C++ like syntax. Each LED leg is initialized to a pin, then the pin is set as an output. In the main loop the function setColor() cycles through a combination of each color, this allows us to display colors other than Red Green and Blue. If you notice the pins in the code start with PA, but on the board they start with only start with an A. Apperently thats to save space on the board, to program the controller you will need to write the full name of the board.   
+![Arduino code](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png?raw=true)
+
+![Breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Webp.net-resizeimage.jpg?raw=true)
