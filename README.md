@@ -5,7 +5,7 @@ https://github.com/SamFat787/SmartDenProject
 
 ## Introduction
 
-For our capstone project my partners (Boswell and Bobby) have decided to create a model smarthome. The goal was to make a project for Makerkids, which helps bridge to familiarize young kids with technology. Our intention was to make a project that would use sensors that the kids are familiar with so they can in turn hack or interact with the project. Our smarthome will be interactive with an Android application that would allow you to interact with the sensors. As far as backend, we plan on storing user settings our database. These settings include: temperature readings, record of the time the lights are on/off, and also store the number of sensors a user would have in their smarthome. For my part, I chose an  RGB LED that would allow the user to change a room light to what every they desire. . My controller of choice is a STM32 blue pill with is about the size of a Rasberry Pi and with the capabilities of an Arduino Uno. The blue pill has a faster processesor and larger flash than the Arduino and is less expensive.  
+For our capstone project my partners (Boswell and Bobby) have decided to create a model smarthome. The goal was to make a project for Makerkids, which helps bridge to familiarize young kids with technology. Our intention was to make a project that would use sensors that the kids are familiar with so they can in turn hack or interact with the project. Our smarthome will be interactive with an Android application that would allow you to interact with the sensors. As far as backend, we plan on storing user settings our database. These settings include: temperature readings, record of the time the lights are on/off, and also store the number of sensors a user would have in their smarthome. For my part, I chose an  RGB LED that would allow the user to change a room light to what every they desire. My controller of choice is a STM32 blue pill which is about the size of a Rasberry Pi and with the capabilities of an Arduino Uno. The blue pill has a faster processesor and larger flash than the Arduino and is less expensive.  
 
 
 
@@ -22,7 +22,7 @@ For our capstone project my partners (Boswell and Bobby) have decided to create 
 8. 2x 20 pin headers
 
 
-Total cost of the project came around $65CAD. This included a purchase of the LED and the Blue Pill which comes package with a St-Link. The Breadboard and resistors I already owned since first year as they were part of my Humber tool kit. The Arduino IDE can be downloaded for free.
+Total cost of the project came to around $65CAD. This included a purchase of the LED and the Blue Pill which comes package with a St-Link. The Breadboard and resistors I already owned since first year as they were part of my Humber tool kit. The Arduino IDE can be downloaded for free.
 
 ## Time Commitment
 
@@ -31,7 +31,7 @@ The most time consuming aspect of the project was waiting for the materials to a
 1. half hour to Solder blue pill pins
 2. half hour to solder PCB
 3. 10-15 mins to program on IDE
-4. 30 mins to build and complete your circtui board
+4. 30 mins to build and complete your circuit board
 
 
 
