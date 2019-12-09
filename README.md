@@ -18,8 +18,22 @@ For our capstone project my partners (Boswell and Bobby) have decided to create 
 4. 3x 220ohm resistors(you can used 100-1k resistors for the LED)
 5. ST-Link
 6. Arduino IDE https://www.arduino.cc/en/main/software
+7. 4 pin header
+8. 2x 20 pin headers
+
 
 Total cost of the project came around $65CAD. This included a purchase of the LED and the Blue Pill which comes package with a St-Link. The Breadboard and resistors I already owned since first year as they were part of my Humber tool kit. The Arduino IDE can be downloaded for free.
+
+## Time Commitment
+
+The most time consuming aspect of the project was waiting for the materials to arrive.  The Blue Pill was not shipped from the Amazon warehouse but from a third party seller, and the LED came from the US and was held at customs for some days. These delaye set me back a bit.  But assuming you have the parts, the projected can be completed within a couple hours with this break down:
+
+1. half hour to Solder blue pill pins
+2. half hour to solder PCB
+3. 10-15 mins to program on IDE
+4. 30 mins to build and complete your circtui board
+
+
 
 ## Assembly
 
