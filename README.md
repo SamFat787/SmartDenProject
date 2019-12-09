@@ -38,3 +38,4 @@ One of the good things about the Blue Pill is that it can be programmed with Ard
 ![Arduino code](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png?raw=true)
 
 ![Breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Webp.net-resizeimage.jpg?raw=true)
+![Working PCB](https://github.com/SamFat787/SmartDenProject/blob/master/thumbnail_IMG_2083.jpg?raw=true)
