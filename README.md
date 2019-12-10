@@ -59,6 +59,10 @@ One of the good things about the Blue Pill is that it can be programmed with Ard
 
 Each LED leg is initialized to a pin, then the pin is set as an output. In the main loop the function setColor() cycles through a combination of each color, this allows us to display colors other than Red Green and Blue. If you notice the pins in the code start with PA, but on the board they start with only start with an A. Apperently thats to save space on the board, to program the controller you will need to write the full name of the pin. Below is an image of the Breadboard and the the working PCB.   
 ![Arduino code](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png?raw=true)
+```
+int void main
+something=something;
+```
 
 ![Breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Webp.net-resizeimage.jpg?raw=true)
 
