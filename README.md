@@ -63,8 +63,41 @@ One of the good things about the Blue Pill is that it can be programmed with Ard
 Each LED leg is initialized to a pin, then the pin is set as an output. In the main loop the function setColor() cycles through a combination of each color, this allows us to display colors other than Red Green and Blue. If you notice the pins in the code start with PA, but on the board they start with only start with an A. Apperently thats to save space on the board, to program the controller you will need to write the full name of the pin. Below is an image of the Breadboard and the the working PCB.   
 ![Arduino code](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png?raw=true)
 ```
-int void main
-something=something;
+int redPin = PA1;
+int greenPin= PA2;
+int bluePin= PA3;
+void setup() {
+  // put your setup code here, to run once:
+pinMode(redPin,OUTPUT);
+pinMode(greenPin,OUTPUT);
+pinMode(bluePin,OUTPUT);
+}
+
+void loop() {
+ setColor(255, 0, 0); // red
+delay(1000);
+setColor(0, 255, 0); // green
+delay(1000);
+setColor(0, 0, 255); // blue
+delay(1000);
+setColor(255, 255, 0); // yellow
+delay(1000);
+setColor(80, 0, 80); // purple
+delay(1000);
+setColor(0, 255, 255); // aqua
+delay(1000);
+}
+void setColor(int red, int green, int blue)
+{
+#ifdef COMMON_ANODE
+red = 255 - red;
+green = 255 - green;
+blue = 255 - blue;
+#endif
+analogWrite(redPin, red);
+analogWrite(greenPin, green);
+analogWrite(bluePin, blue);
+}
 ```
 
 ![Breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Webp.net-resizeimage.jpg?raw=true)
