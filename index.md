@@ -1,5 +1,11 @@
 <html>
   <body>
+    <h2>December 10 working case</h2>
+    <p>Took a while but case is finally made and the LED is working properly</p>
+    <p><img src="https://github.com/SamFat787/SmartDenProject/blob/master/IMG_2178.jpg?raw=true"></p>
+    
+    <h2>December 3</h2>
+    <p>Sent created and sent STL file to the prototype lab for my 3D printed case to be made. They say it should be done in a couple days, hopefully I'll have it by next week.
     <h2>Presentation November 26 2019</h2>
     <p><a href = "https://github.com/SamFat787/SmartDenProject/blob/master/CENG317presentation.pptx">Presentation </a>
       <br/>
