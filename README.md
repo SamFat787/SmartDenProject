@@ -25,6 +25,8 @@ For our capstone project my partners (Boswell and Bobby) have decided to create 
 6. Arduino IDE https://www.arduino.cc/en/main/software
 7. 4 pin header
 8. 2x 20 pin headers
+9. [case file](https://github.com/SamFat787/SmartDenProject/blob/master/case.stl)
+10. [lid file](https://github.com/SamFat787/SmartDenProject/blob/master/ProjectBoxLidRev01Sam.cdr)
 
 
 Total cost of the project came to around $65CAD. This includes a purchase of the LED and the Blue Pill which comes package with a St-Link. The Breadboard and resistors I already owned since first year as they were part of my Humber tool kit. The Arduino IDE can be downloaded for free.
@@ -38,6 +40,7 @@ The most time consuming aspect of the project was waiting for the materials to a
 3. 10-15 mins to program on IDE
 4. 30 mins to build and complete your circuit board
 5. 2 hours to make and print a 3d case and lid
+
 
 
 
@@ -61,7 +64,8 @@ Here is an image of the PCB that shows the connection of the LED legs to the pin
 One of the good things about the Blue Pill is that it can be programmed with Arduino IDE, which uses C++ like syntax. In order to use the controller with the IDE you will first need to add the following to "Additional Boards manager" which can be accessed by File->Preferences: http://dan.drown.org/stm32duino/package_STM32duino_index.json . This allows you to add the board to the list of programmable controllers for the IDE.
 
 Each LED leg is initialized to a pin, then the pin is set as an output. In the main loop the function setColor() cycles through a combination of each color, this allows us to display colors other than Red Green and Blue. If you notice the pins in the code start with PA, but on the board they start with only start with an A. Apperently thats to save space on the board, to program the controller you will need to write the full name of the pin. Below is an image of the Breadboard and the the working PCB.   
-![Arduino code](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.20.16%20PM.png?raw=true)
+
+[Link to source](https://github.com/SamFat787/SmartDenProject/blob/master/sketch_nov12a.ino)
 ```
 int redPin = PA1;
 int greenPin= PA2;
