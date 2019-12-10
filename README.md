@@ -41,6 +41,8 @@ Here's an image of the breadboard design of the circuit connection. As you may n
 
 ![breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-19%20at%202.33.03%20PM.png?raw=true)
 
+[link to file](https://github.com/SamFat787/SmartDenProject/blob/master/PCB-CENG%20318.fzz)
+
 ## PCB/Soldering
 Here is an image of the PCB that shows the connection of the LED legs to the pins of the BluePill. Each leg of the LED require resistors (100ohm to 1kohm) connected in series. A printed soldered PCB is attached below.
 ![PCB](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-11-26%20at%201.56.32%20PM.png?raw=true)
