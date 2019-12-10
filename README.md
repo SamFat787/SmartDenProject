@@ -62,3 +62,9 @@ Each LED leg is initialized to a pin, then the pin is set as an output. In the m
 ![Breadboard](https://github.com/SamFat787/SmartDenProject/blob/master/Webp.net-resizeimage.jpg?raw=true)
 
 ![Working PCB](https://github.com/SamFat787/SmartDenProject/blob/master/thumbnail_IMG_2083.jpg?raw=true)
+
+## Production Testing
+
+The case was made at the local Humber prototype lab, normally takes about 2 days to be made.  The acrylic cover can be made in about 10 minutes or so.
+
+![Working case](https://github.com/SamFat787/SmartDenProject/blob/master/IMG_2178.jpg?raw=true)
