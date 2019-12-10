@@ -34,6 +34,7 @@ The most time consuming aspect of the project was waiting for the materials to a
 2. half hour to solder PCB
 3. 10-15 mins to program on IDE
 4. 30 mins to build and complete your circuit board
+5. 2 hours to make and print a 3d case and lid
 
 
 
