@@ -1,4 +1,7 @@
 # SmartDenProject
+
+![System diagram](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-12-10%20at%201.58.42%20PM.png?raw=true)
+
 ## Samuel Fatuga
 
 https://github.com/SamFat787/SmartDenProject
@@ -7,7 +10,7 @@ https://github.com/SamFat787/SmartDenProject
 
 For our capstone project my partners (Boswell and Bobby) have decided to create a model smarthome. The goal was to make a project for Makerkids, which helps to familiarize young kids with technology. Our intention was to make a project that would use sensors that the kids are familiar with, so they can in turn hack or interact with the project. Our smarthome will be interactive with an Android application that would allow you to interact with the sensors. As far as backend, we plan on storing user settings in our database using MySql. These settings include: temperature readings, record of the time the lights are on/off, and also store the number of sensors a user would have in their smarthome. For my part, I chose an  RGB LED that would allow the user to change a room light to what every they desire. My controller of choice is a STM32 blue pill which is about the size of a Rasberry Pi and with the capabilities of an Arduino Uno. The blue pill has a faster processesor and larger flash than the Arduino and is less expensive.
 
-![System diagram](https://github.com/SamFat787/SmartDenProject/blob/master/Screen%20Shot%202019-12-10%20at%201.58.42%20PM.png?raw=true)
+
 
 
 
